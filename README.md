@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Swarnav-Singh/DSA_Practice/tree/master/0415-add-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Swarnav-Singh/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Swarnav-Singh/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Swarnav-Singh/DSA_Practice/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Swarnav-Singh/DSA_Practice/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
