@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Swarnav-Singh/DSA_Practice/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Swarnav-Singh/DSA_Practice/tree/master/0056-merge-intervals) |
+| [0300-longest-increasing-subsequence](https://github.com/Swarnav-Singh/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Swarnav-Singh/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sorting
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Swarnav-Singh/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Swarnav-Singh/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Swarnav-Singh/DSA_Practice/tree/master/0415-add-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Swarnav-Singh/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Swarnav-Singh/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
